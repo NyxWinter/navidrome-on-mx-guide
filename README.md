@@ -1,3 +1,6 @@
+> [!NOTE]
+> This was done on MX 25.1 KDE Edition
+
 # Pre-requisites
 - Install MX Linux (SysVinit)
 - Update and install dependencies: ```sudo apt update && sudo apt-get upgrade -y && sudo apt-get install ffmpeg daemon -y```
