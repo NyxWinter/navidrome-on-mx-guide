@@ -66,7 +66,7 @@ Open the MX Service Manager, browse to Navidrome and press "Enable at Boot"
 # Installing Feishin
 
 ## Desktop version
-- Just download the latest release from github (probably Feishin-linux-x64.tar.xz) or get it as a flatpak.
+- Just download the latest release from github (probably Feishin-linux-x64.tar.xz).
 
 ## Web version for self-hosting
 Honestly you're probably better off using feishin.vercel.app
